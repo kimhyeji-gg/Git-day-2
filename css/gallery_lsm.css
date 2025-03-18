@@ -8,15 +8,15 @@ body {
     width: 960px;
 }
 
-.container {
+#container {
     text-align: center;
 }
 
-.title {
+#title {
     color: dodgerblue;
     text-align: center;
 }
 
-.artist {
+#artist {
     text-align: right;
 }
