@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#imgBox {
+    margin: 30px 30px;
+    text-align: center;
+}
+img {
+    width: 500px;
+    height: 300px;
+    object-fit: cover;
+}
